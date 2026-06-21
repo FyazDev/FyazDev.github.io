@@ -1,119 +1,31 @@
-# Rahul Debnath Portfolio
+ Fyaz Nafin Rahman Personal Portfolio
 
-Live site: https://megam1n4.github.io/portfolio_rahul/
+Welcome to the repository for my personal portfolio website! This site showcases my background as a Software Engineer specializing in Python systems development, Machine Learning architectures, and IoT sensor networks.
 
-A professional, data-driven portfolio website for Rahul Debnath, focused on AI-enabled geospatial analytics, IoT systems, transportation resilience, and research experience.
+ 🌐 Live Website
+You can view the live portfolio here: [https://FyazDev.github.io](https://FyazDev.github.io)
 
-This project presents academic work, professional experience, technical skills, achievements, and public profiles in a polished single-page layout with smooth scrolling, reveal animations, and dark/light theme support.
+ 🛠️ Built With
+ HTML5 & CSS3: For a modern, responsive, glassmorphism UI layout.
+ Vanilla JavaScript: To handle dynamic content injection and scroll animations.
+ Font Awesome: For scalable vector icons.
+ Google Fonts: Utilizing 'Inter' for crisp, professional typography.
 
-## Overview
+ 🚀 Features
+ Dynamic Content Loading: All portfolio data (experience, skills, projects) is loaded dynamically from `data.js`.
+ Premium Aesthetics: Features a sophisticated "Deep Slate" color palette with smooth gradients and frosted glass components.
+ Responsive Design: Completely optimized for viewing on desktops, tablets, and mobile devices.
+ Interactive UI: Microanimations and hover effects that enhance user experience.
 
-The site is built as a lightweight front-end project using HTML, CSS, and JavaScript, with Vite configured for local development and preview. Portfolio content is centralized in a single data source, making updates straightforward without changing the page structure.
+ 📂 Project Structure
+ `index.html`  The main structure of the website.
+ `styles.css`  All styling, layout properties, and animations.
+ `script.js`  Logic for injecting data into the HTML and scroll behaviors.
+ `data.js`  The data source containing all my resume details.
+ `profile.jpg`  My profile picture.
 
-## Features
-
-- Professional single-page portfolio layout
-- Dark and light theme toggle with saved preference
-- Data-driven rendering from a central JavaScript file
-- Sections for summary, experience, skills, education, achievements, publications, and contact
-- Smooth scrolling and scroll-triggered reveal effects
-- Responsive layout for desktop and mobile screens
-- External profile links for GitHub, LinkedIn, Google Scholar, and ResearchGate
-
-## Tech Stack
-
-- HTML5
-- CSS3
-- Vanilla JavaScript (ES Modules)
-- Vite
-- Font Awesome
-- Google Fonts
-
-## Project Structure
-
-```text
-portfolio_v1/
-|-- index.html
-|-- styles.css
-|-- script.js
-|-- data.js
-|-- package.json
-```
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js 18+ recommended
-- npm
-
-### Install dependencies
-
-```bash
-npm install
-```
-
-### Start the development server
-
-```bash
-npm run dev
-```
-
-### Build for production
-
-```bash
-npm run build
-```
-
-### Preview the production build
-
-```bash
-npm run preview
-```
-
-## Customization
-
-Most portfolio content is managed in `data.js`.
-
-Update the following there as needed:
-
-- Name and contact details
-- Professional summary and proposed endeavor
-- Work experience entries
-- Education details
-- Skills by category
-- Achievements and presentation links
-- Public profile URLs
-
-For layout and visual styling, edit `styles.css`.
-
-For interaction logic such as theme switching, dynamic section rendering, and animations, edit `script.js`.
-
-## Personal Assets
-
-The homepage references a profile image named `profile.jpg` in the project root. If that file is missing, the site falls back to a placeholder image automatically.
-
-## Deployment
-
-This project can be deployed easily to any static hosting platform, including:
-
-- GitHub Pages
-- Vercel
-- Netlify
-- Firebase Hosting
-
-If deploying with Vite, use the production output generated in the `dist/` directory after running the build command.
-
-## Why This Portfolio Works
-
-This portfolio is structured to present both technical depth and professional credibility. It highlights research, engineering, systems work, publications, and academic progression in a format that is easy for recruiters, faculty, and collaborators to review quickly.
-
-## Author
-
-Rahul Debnath  
-Master's Student in Computer Science  
-Focus: AI, IoT, geospatial analytics, transportation infrastructure resilience
-
-## License
-
-This project is for personal portfolio use.
+ 📫 Contact
+Feel free to reach out to me for collaborations on AI, IoT, or Geospatial projects!
+ Email: fyaznafinrahman007@gmail.com
+ LinkedIn: [tinyurl.com/fyaznafin](https://tinyurl.com/fyaznafin)
+ GitHub: [github.com/FyazDev](https://github.com/FyazDev)
