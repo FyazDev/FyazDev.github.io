@@ -3,7 +3,7 @@
 Welcome to the repository for my personal portfolio website! This site showcases my background as a Software Engineer specializing in Python systems development, Machine Learning architectures, and IoT sensor networks.
 
  🌐 Live Website
-You can view the live portfolio here: [https://FyazDev.github.io](https://FyazDev.github.io)
+You can view the live portfolio here: [https://fyazdev.github.io/Fyaz-Rahman-Portfolio/)
 
  🛠️ Built With
  HTML5 & CSS3: For a modern, responsive, glassmorphism UI layout.
